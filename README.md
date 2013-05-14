@@ -1,9 +1,13 @@
-= Mozilla Senegal Day =
-== Demo ==
-Simple demo using Battery based on script from https://github.com/robnyman/robnyman.github.com/tree/master/battery/js 
+Mozilla Senegal Day 
+===================
 
-== Slide == 
+#### Demo ####
 
-Slide : Le web en tant que plateforme 
+Simple demo using Battery based on [robnyman script](https://github.com/robnyman/robnyman.github.com/tree/master/battery/js)
+
+#### website  ####
+
+[Mozilla Senegal Days website](http://mozsnday.mozilla-senegal.org)
+
 
 
