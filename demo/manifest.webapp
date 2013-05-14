@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "name": "mozsndays",
+  "launch_path": "index.html",
+  "description": "Firefox OS Demo mozsnday",
+  "icons": {
+    "16": "pictures/mozsn16.png",
+    "64": "pictures/mozsn64.png",
+    "128": "pictures/mozsn128.png"
+  },
+  "developer": {
+    "name": "Mozilla Senegal Community",
+    "url": "http://wwww.mozillla-senegal.org"
+  },
+  "installs_allowed_from": ["*"],
+  "default_locale": "fr"
+}
